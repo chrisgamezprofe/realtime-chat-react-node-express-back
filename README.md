@@ -1,2 +1,2 @@
 # realtime-chat-react-node-express-back
-<img src="portada.JPG"/>
+<img src="portada.PNG"/>
